@@ -1,0 +1,62 @@
+/* Estilos para el encabezado */
+.titulo {
+    background-color: #007BFF;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #333;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para el cuerpo de la página */
+body {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 40px;
+    background-color: #b0bebe;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para el formulario */
+.calculadora {
+    text-align: center;
+    margin: 40px;
+    padding: 40px;
+    background-color: #2e355c;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para el subtítulo */
+.subtitulo {
+    background-color: #72148f;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #333;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 100px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #007BFF;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #333;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
